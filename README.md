@@ -120,4 +120,7 @@ Corrección del README de Rania Benyaich:
 - El código se copila correctamente, no tiene ningún error
 - El ejercicio esta ordenado de manera correcta, es decir, se encuentra en una subcarpeta
 - Está incluido el link del repositorio
+- Utilizó la librería estándar de C++
+- Se incluyen mensajes informativos en la consola
+- Ha organizado el código de una manera fácil de entender y modificar
   
