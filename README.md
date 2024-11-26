@@ -117,3 +117,7 @@ Por último, ten en cuenta que este código no realiza una comprobación complet
 Corrección del README de Rania Benyaich:
 
 - Falta poner el enunciado completo
+- El código se copila correctamente, no tiene ningún error
+- El ejercicio esta ordenado de manera correcta, es decir, se encuentra en una subcarpeta
+- Está incluido el link del repositorio
+  
