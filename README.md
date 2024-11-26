@@ -114,3 +114,5 @@ Por último, ten en cuenta que este código no realiza una comprobación complet
 
 # Corrije el ejercicio de tu compañero y sub tu valoración a tu readme
 
+Corrección del README de Rania Benyaich:
+
